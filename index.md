@@ -1,7 +1,7 @@
 # trbm
 
 * accounts
-  * [facebook](https://www.facebook.com/timothy.baumann.902) [instagram](https://www.instagram.com/culverit/) [twitter](https://twitter.com/culverit) [steam](https://steamcommunity.com/id/culverit) [github](https://github.com/culverit) [youtube](https://www.youtube.com/channel/UC3cnXaa3Hx5XRerYh9HWTSg) [spotify](https://open.spotify.com/user/culverit) [archive](https://archive.org/details/@culverit) [discord](https://discordapp.com/channels/@me/768345966369570817) [marshmallow](https://marshmallow-qa.com/culverit)
+  * [facebook](https://www.facebook.com/timothy.baumann.902) [instagram](https://www.instagram.com/culverit/) [twitter](https://twitter.com/culverit) [steam](https://steamcommunity.com/id/culverit) [github](https://github.com/culverit) [youtube](https://www.youtube.com/channel/UC3cnXaa3Hx5XRerYh9HWTSg) [spotify](https://open.spotify.com/user/culverit) [archive](https://archive.org/details/@culverit) [discord](https://discordapp.com/users/768345966369570817) [marshmallow](https://marshmallow-qa.com/culverit)
   * P61:435:804:456 timbaumann:outlook:com tim:trbm:net
 * services
   * [router](http://192.168.0.1/weblogin.htm) [racq](https://racqbank.com.au/#/login) [ing](https://www.ing.com.au/securebanking/) [uphold](https://uphold.com/login) [swyftx](https://trade.swyftx.com.au/dashboard/)
