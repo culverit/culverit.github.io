@@ -1,4 +1,4 @@
-# trbm : _sapere aude_ 
+# trbm
 ![au](visited/au.gif) ![fj](visited/fj.gif) ![nz](visited/nz.gif) ![nc](visited/nc.gif) ![jp](visited/jp.gif) ![ae](visited/ae.gif) ![sc](visited/sc.gif) ![sg](visited/sg.gif) ![th](visited/th.gif) ![my](visited/my.gif)
 * public
   * [facebook](https://www.facebook.com/timothy.baumann.902) [instagram](https://www.instagram.com/culverit/) [twitter](https://twitter.com/culverit) [steam](https://steamcommunity.com/id/culverit) [github](https://github.com/culverit) [youtube](https://www.youtube.com/channel/UC3cnXaa3Hx5XRerYh9HWTSg) [spotify](https://open.spotify.com/user/culverit) [archive](https://archive.org/details/@culverit) [discord](https://discordapp.com/users/768345966369570817) [marshmallow](https://marshmallow-qa.com/culverit)
@@ -12,5 +12,6 @@
   * [osm](https://www.openstreetmap.org/#map=4/-28.15/133.28) [libgen](http://gen.lib.rus.ec/) [adsb-exchange](https://globe.adsbexchange.com/) [websdr](http://websdr.ewi.utwente.nl:8901/) [heliplots](https://earthquake.usgs.gov/monitoring/operations/heliplot.php) [gcp-dot](http://gcpdot.com/) [nullschool](https://earth.nullschool.net/)
   * [google-translate](https://translate.google.com/#view=home&op=translate&sl=ja&tl=en) [deepl](https://www.deepl.com/en/translator) [hl-tools](https://hololive.jetri.co/#/) [holodex](https://holodex.net/) [mchad-web](https://mchad1.firebaseapp.com/ListenerClient/All) [hl-schedule](https://schedule.hololive.tv/lives/all) [hl-en-schedule](https://schedule.hololive.tv/lives/english) [hl-stats](https://holo.poi.cat/youtube-channel)
 * words
-  * Rule 19: The more you hate it, the stronger it gets.
-  * My candle burns at both ends
+  * sapere aude
+  * rule 19: the more you hate it, the stronger it gets.
+  * my candle burns at both ends
