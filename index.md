@@ -9,7 +9,7 @@
   * [google-translate](https://translate.google.com/#view=home&op=translate&sl=ja&tl=en) [deepl](https://www.deepl.com/en/translator) [hl-tools](https://hololive.jetri.co/#/) [holodex](https://holodex.net/) [mchad-web](https://mchad1.firebaseapp.com/ListenerClient/All) [hl-stats](https://holo.poi.cat/youtube-channel)
   * [router](http://192.168.0.1/weblogin.htm) [racq](https://racqbank.com.au/#/login) [ing](https://www.ing.com.au/securebanking/) [uphold](https://uphold.com/login) [swyftx](https://trade.swyftx.com.au/dashboard/)
   * [google-admin](https://admin.google.com/) [godaddy](https://account.godaddy.com/products) [outlook](https://login.live.com/login.srf) [gmail](https://mail.google.com/mail/u/0/#inbox) [protonmail](https://mail.protonmail.com/login) [expressvpn](https://www.expressvpn.com/subscriptions) [protonvpn](https://account.protonvpn.com/account) 
-  * [mega](https://mega.nz/) [kindle](https://www.amazon.com/hz/mycd/myx#/home/content/booksAll/dateDsc/) [reddit](https://old.reddit.com/) [tweetdeck](https://tweetdeck.twitter.com/) [youtube-studio](https://studio.youtube.com/channel/UC3cnXaa3Hx5XRerYh9HWTSg)
+  * [mega](https://mega.nz/) [kindle](https://www.amazon.com/hz/mycd/myx#/home/content/booksAll/dateDsc/) [reddit](https://old.reddit.com/) [tweetdeck](https://tweetdeck.twitter.com/) [youtube-studio](https://studio.youtube.com/)
 * words
   * sapere aude
   * rule 19: the more you hate it, the stronger it gets.
