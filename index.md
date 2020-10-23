@@ -13,7 +13,6 @@
 * words
   * sapere aude
   * rule 19: the more you hate it, the stronger it gets.
-  * my candle burns at both ends
   * * _Here there was a poem._ 
     * _Computer ate it_ 
     * _not out of malice_
