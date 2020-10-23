@@ -14,3 +14,11 @@
   * sapere aude
   * rule 19: the more you hate it, the stronger it gets.
   * my candle burns at both ends
+  * * _Here there was a poem._ 
+    * _Computer ate it_ 
+    * _not out of malice_
+    * _or greed._
+    * _Just ate it._
+    * _This is an epitaph for that poem_
+    * _which, well,_
+    * _vanished._
