@@ -1,15 +1,15 @@
 # trbm
 ![au] ![fj] ![nz] ![nc] ![jp] ![ae] ![sc] ![sg] ![th] ![my] : ![aq] ![tw] ![iw] ![ia] ![or] ![os]
 * public
-  * [facebook] [instagram] [twitter] [steam] [github] [youtube] [spotify] [archive] [marshmallow]
+  * [facebook][facebook] [instagram][instagram] [twitter][twitter] [steam][steam] [github][github] [youtube][youtube] [spotify][spotify] [archive][archive] [marshmallow][marshmallow]
   * P61:435:804:456 timbaumann:outlook:com tim:trbm:net
 * quicklinks
-  * [idr663] [warnings] [fire] [fireworks] [outages] [tides] [wind] [atc]
-  * [osm] [libgen] [adsb] [websdr] [heliplots] [gcp] [nullschool]
-  * [translate] [deepl] [holotools] [holodex] [mchad]
-  * [router] [racq] [ing] [uphold] [swyftx]
-  * [admin] [godaddy] [outlook] [gmail] [protonmail] [expressvpn] [protonvpn] 
-  * [mega] [kindle] [reddit] [tweetdeck] [studio]
+  * [idr663][idr663] [warnings][warnings] [fire][fire] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
+  * [osm][osm] [libgen][libgen] [adsb][adsb] [websdr][websdr] [heliplots][heliplots] [nullschool][nullschool]
+  * [translate][translate] [deepl][deepl] [holotools][holotools] [holodex][holodex] [mchad][mchad]
+  * [router][router] [racq][racq] [ing][ing] [uphold][uphold] [swyftx][swyftx]
+  * [admin][admin] [godaddy][godaddy] [outlook][outlook] [gmail][gmail] [protonmail][protonmail] [expressvpn][expressvpn] [protonvpn][protonvpn] 
+  * [mega][mega] [kindle][kindle] [reddit][reddit] [tweetdeck][tweetdeck] [studio][studio]
 * words
   * sapere aude
   * rule 19: the more you hate it, the stronger it gets.
