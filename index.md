@@ -1,11 +1,11 @@
 # trbm
-![au](visited/au.gif) ![fj](visited/fj.gif) ![nz](visited/nz.gif) ![nc](visited/nc.gif) ![jp](visited/jp.gif) ![ae](visited/ae.gif) ![sc](visited/sc.gif) ![sg](visited/sg.gif) ![th](visited/th.gif) ![my](visited/my.gif) : ![](visited/nv-1-aq-v.gif) ![](visited/nv-2-tw.gif) ![](visited/nv-3-iw.gif) ![](visited/nv-4-ia.gif) ![](visited/nv-5-or.gif) ![](visited/nv-6-os.gif)
+![au] ![fj] ![nz] ![nc] ![jp] ![ae] ![sc] ![sg] ![th] ![my] : ![aq] ![tw] ![iw] ![ia] ![or] ![os]
 * public
   * [facebook] [instagram] [twitter] [steam] [github] [youtube] [spotify] [archive] [marshmallow]
   * P61:435:804:456 timbaumann:outlook:com tim:trbm:net
 * quicklinks
   * [idr663] [warnings] [fire] [fireworks] [outages] [tides] [wind] [atc]
-  * [osm] [libgen] [adsb] [websdr] [heliplots] [nullschool]
+  * [osm] [libgen] [adsb] [websdr] [heliplots] [gcp] [nullschool]
   * [translate] [deepl] [holotools] [holodex] [mchad]
   * [router] [racq] [ing] [uphold] [swyftx]
   * [admin] [godaddy] [outlook] [gmail] [protonmail] [expressvpn] [protonvpn] 
@@ -23,6 +23,22 @@
     * _vanished._
 
 [//]:#()
+[au]: <visited/au.gif>
+[fj]: <visited/fj.gif>
+[nz]: <visited/nz.gif>
+[nc]: <visited/nc.gif>
+[jp]: <visited/jp.gif>
+[ae]: <visited/ae.gif>
+[sc]: <visited/sc.gif>
+[sg]: <visited/sg.gif>
+[th]: <visited/th.gif>
+[my]: <visited/my.gif>
+[aq]: <visited/nv-1-aq-v.gif>
+[tw]: <visited/nv-2-tw.gif>
+[iw]: <visited/nv-3-iw.gif>
+[ia]: <visited/nv-4-ia.gif>
+[or]: <visited/nv-5-or.gif>
+[os]: <visited/nv-6-os.gif>
 [facebook]: <https://www.facebook.com/timothy.baumann.902>
 [instagram]: <https://www.instagram.com/culverit/>
 [twitter]: <https://twitter.com/culverit>
@@ -45,6 +61,7 @@
 [adsb]: <https://globe.adsbexchange.com/>
 [websdr]: <http://websdr.ewi.utwente.nl:8901/>
 [heliplots]: <https://earthquake.usgs.gov/monitoring/operations/heliplot.php>
+[gcp]: <http://gcpdot.com/>
 [nullschool]: <https://earth.nullschool.net/>
 [translate]: <https://translate.google.com/#view=home&op=translate&sl=ja&tl=en>
 [deepl]: <https://www.deepl.com/en/translator>
