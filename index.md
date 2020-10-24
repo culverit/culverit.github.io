@@ -1,15 +1,15 @@
 # trbm
 ![au](visited/au.gif) ![fj](visited/fj.gif) ![nz](visited/nz.gif) ![nc](visited/nc.gif) ![jp](visited/jp.gif) ![ae](visited/ae.gif) ![sc](visited/sc.gif) ![sg](visited/sg.gif) ![th](visited/th.gif) ![my](visited/my.gif) : ![](visited/nv-1-aq-v.gif) ![](visited/nv-2-tw.gif) ![](visited/nv-3-iw.gif) ![](visited/nv-4-ia.gif) ![](visited/nv-5-or.gif) ![](visited/nv-6-os.gif)
 * public
-  * [facebook](https://www.facebook.com/timothy.baumann.902) [instagram](https://www.instagram.com/culverit/) [twitter](https://twitter.com/culverit) [steam](https://steamcommunity.com/id/culverit) [github](https://github.com/culverit) [youtube](https://www.youtube.com/channel/UC3cnXaa3Hx5XRerYh9HWTSg) [spotify](https://open.spotify.com/user/culverit) [archive](https://archive.org/details/@culverit) [discord](https://discordapp.com/users/768345966369570817) [marshmallow](https://marshmallow-qa.com/culverit)
+  * [facebook] [instagram] [twitter] [steam] [github] [youtube] [spotify] [archive] [marshmallow]
   * P61:435:804:456 timbaumann:outlook:com tim:trbm:net
 * quicklinks
-  * [idr663](http://www.bom.gov.au/products/IDR663.loop.shtml) [warnings](http://www.bom.gov.au/qld/warnings/) [fire](https://www.ruralfire.qld.gov.au/Pages/FDR.aspx) [fireworks](https://www.dnrm.qld.gov.au/qld/emergency/safety/explosive-fireworks/upcoming-fireworks-display-dates) [outages](https://www.energex.com.au/home/power-outages/emergency-outages-streets/) [tides](http://www.bom.gov.au/australia/tides/) [wind](http://www.bom.gov.au/marine/wind.shtml) [atc](https://www.liveatc.net/search/?icao=ybbn)
-  * [osm](https://www.openstreetmap.org/#map=4/-28.15/133.28) [libgen](http://gen.lib.rus.ec/) [adsb](https://globe.adsbexchange.com/) [websdr](http://websdr.ewi.utwente.nl:8901/) [heliplots](https://earthquake.usgs.gov/monitoring/operations/heliplot.php) [gcp](http://gcpdot.com/) [nullschool](https://earth.nullschool.net/)
-  * [translate](https://translate.google.com/#view=home&op=translate&sl=ja&tl=en) [deepl](https://www.deepl.com/en/translator) [holotools](https://hololive.jetri.co/#/) [holodex](https://holodex.net/) [mchad](https://mchad1.firebaseapp.com/ListenerClient/All)
-  * [router](http://192.168.0.1/weblogin.htm) [racq](https://racqbank.com.au/#/login) [ing](https://www.ing.com.au/securebanking/) [uphold](https://uphold.com/login) [swyftx](https://trade.swyftx.com.au/dashboard/)
-  * [admin](https://admin.google.com/) [godaddy](https://account.godaddy.com/products) [outlook](https://login.live.com/login.srf) [gmail](https://mail.google.com/mail/u/0/#inbox) [protonmail](https://mail.protonmail.com/login) [expressvpn](https://www.expressvpn.com/subscriptions) [protonvpn](https://account.protonvpn.com/account) 
-  * [mega](https://mega.nz/) [kindle](https://www.amazon.com/hz/mycd/myx#/home/content/booksAll/dateDsc/) [reddit](https://old.reddit.com/) [tweetdeck](https://tweetdeck.twitter.com/) [studio](https://studio.youtube.com/)
+  * [idr663] [warnings] [fire] [fireworks] [outages] [tides] [wind] [atc]
+  * [osm] [libgen] [adsb] [websdr] [heliplots] [nullschool]
+  * [translate] [deepl] [holotools] [holodex] [mchad]
+  * [router] [racq] [ing] [uphold] [swyftx]
+  * [admin] [godaddy] [outlook] [gmail] [protonmail] [expressvpn] [protonvpn] 
+  * [mega] [kindle] [reddit] [tweetdeck] [studio]
 * words
   * sapere aude
   * rule 19: the more you hate it, the stronger it gets.
@@ -21,3 +21,50 @@
     * _This is an epitaph for that poem_
     * _which, well,_
     * _vanished._
+
+[//]:#()
+[facebook]: <https://www.facebook.com/timothy.baumann.902>
+[instagram]: <https://www.instagram.com/culverit/>
+[twitter]: <https://twitter.com/culverit>
+[steam]: <https://steamcommunity.com/id/culverit>
+[github]: <https://github.com/culverit>
+[youtube]: <https://www.youtube.com/channel/UC3cnXaa3Hx5XRerYh9HWTSg>
+[spotify]: <https://open.spotify.com/user/culverit>
+[archive]: <https://archive.org/details/@culverit>
+[marshmallow]: <https://marshmallow-qa.com/culverit>
+[idr663]: <http://www.bom.gov.au/products/IDR663.loop.shtml>
+[warnings]: <http://www.bom.gov.au/qld/warnings/>
+[fire]: <https://www.ruralfire.qld.gov.au/Pages/FDR.aspx>
+[fireworks]: <https://www.dnrm.qld.gov.au/qld/emergency/safety/explosive-fireworks/upcoming-fireworks-display-dates>
+[outages]: <https://www.energex.com.au/home/power-outages/emergency-outages-streets/>
+[tides]: <http://www.bom.gov.au/australia/tides/>
+[wind]: <http://www.bom.gov.au/marine/wind.shtml>
+[atc]: <https://www.liveatc.net/search/?icao=ybbn>
+[osm]: <https://www.openstreetmap.org/#map=4/-28.15/133.28>
+[libgen]: <http://gen.lib.rus.ec/>
+[adsb]: <https://globe.adsbexchange.com/>
+[websdr]: <http://websdr.ewi.utwente.nl:8901/>
+[heliplots]: <https://earthquake.usgs.gov/monitoring/operations/heliplot.php>
+[nullschool]: <https://earth.nullschool.net/>
+[translate]: <https://translate.google.com/#view=home&op=translate&sl=ja&tl=en>
+[deepl]: <https://www.deepl.com/en/translator>
+[holotools]: <https://hololive.jetri.co/#/>
+[holodex]: <https://holodex.net/>
+[mchad]: <https://mchad1.firebaseapp.com/ListenerClient/All>
+[router]: <http://192.168.0.1/weblogin.htm>
+[racq]: <https://racqbank.com.au/#/login>
+[ing]: <https://www.ing.com.au/securebanking/>
+[uphold]: <https://uphold.com/login>
+[swyftx]: <https://trade.swyftx.com.au/dashboard/>
+[admin]: <https://admin.google.com/>
+[godaddy]: <https://account.godaddy.com/products>
+[outlook]: <https://login.live.com/login.srf>
+[gmail]: <https://mail.google.com/mail/u/0/#inbox>
+[protonmail]: <https://mail.protonmail.com/login>
+[expressvpn]: <https://www.expressvpn.com/subscriptions>
+[protonvpn]: <https://account.protonvpn.com/account>
+[mega]: <https://mega.nz/>
+[kindle]: <https://www.amazon.com/hz/mycd/myx#/home/content/booksAll/dateDsc/>
+[reddit]: <https://old.reddit.com/>
+[tweetdeck]: <https://tweetdeck.twitter.com/>
+[studio]: <https://studio.youtube.com/>
