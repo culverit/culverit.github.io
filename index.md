@@ -6,10 +6,10 @@
 * quicklinks
   * [idr663][idr663] [warnings][warnings] [fire][fire] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
   * [osm][osm] [libgen][libgen] [adsb][adsb] [websdr][websdr] [heliplots][heliplots] [nullschool][nullschool]
-  * [translate][translate] [deepl][deepl] [holotools][holotools] [holodex][holodex] [mchad][mchad]
   * [router][router] [racq][racq] [ing][ing] [uphold][uphold] [swyftx][swyftx]
   * [admin][admin] [godaddy][godaddy] [outlook][outlook] [gmail][gmail] [protonmail][protonmail] [expressvpn][expressvpn] [protonvpn][protonvpn] 
   * [mega][mega] [kindle][kindle] [reddit][reddit] [tweetdeck][tweetdeck] [studio][studio]
+  * [translate][translate] [deepl][deepl] [holotools][holotools] [holodex][holodex] [mchad][mchad]
 * words
   * sapere aude
   * rule 19: the more you hate it, the stronger it gets.
@@ -63,11 +63,6 @@
 [heliplots]: <https://earthquake.usgs.gov/monitoring/operations/heliplot.php>
 [gcp]: <http://gcpdot.com/>
 [nullschool]: <https://earth.nullschool.net/>
-[translate]: <https://translate.google.com/#view=home&op=translate&sl=ja&tl=en>
-[deepl]: <https://www.deepl.com/en/translator>
-[holotools]: <https://hololive.jetri.co/#/>
-[holodex]: <https://holodex.net/>
-[mchad]: <https://mchad1.firebaseapp.com/ListenerClient/All>
 [router]: <http://192.168.0.1/weblogin.htm>
 [racq]: <https://racqbank.com.au/#/login>
 [ing]: <https://www.ing.com.au/securebanking/>
@@ -85,3 +80,8 @@
 [reddit]: <https://old.reddit.com/>
 [tweetdeck]: <https://tweetdeck.twitter.com/>
 [studio]: <https://studio.youtube.com/>
+[translate]: <https://translate.google.com/#view=home&op=translate&sl=ja&tl=en>
+[deepl]: <https://www.deepl.com/en/translator>
+[holotools]: <https://hololive.jetri.co/#/>
+[holodex]: <https://holodex.net/>
+[mchad]: <https://mchad1.firebaseapp.com/ListenerClient/All>
