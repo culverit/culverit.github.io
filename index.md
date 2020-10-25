@@ -57,7 +57,7 @@
 [tides]: <http://www.bom.gov.au/australia/tides/>
 [wind]: <http://www.bom.gov.au/marine/wind.shtml>
 [atc]: <https://www.liveatc.net/search/?icao=ybbn>
-[osm]: <https://www.openstreetmap.org/#map=4/-28.15/133.28>
+[osm]: <https://www.openstreetmap.org/#map=12/-27.4751/153.0162>
 [libgen]: <http://gen.lib.rus.ec/>
 [adsb]: <https://globe.adsbexchange.com/>
 [websdr]: <http://websdr.ewi.utwente.nl:8901/>
