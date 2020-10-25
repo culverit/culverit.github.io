@@ -4,7 +4,7 @@
   * [facebook][facebook] [instagram][instagram] [twitter][twitter] [steam][steam] [github][github] [youtube][youtube] [spotify][spotify] [archive][archive] [marshmallow][marshmallow]
   * P61:435:804:456 timbaumann:outlook:com tim:trbm:net
 * quicklinks
-  * [idr663][idr663] [warnings][warnings] [fire][fire] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
+  * [idr663][idr663] [warnings][warnings] [lightning][lightning] [fire][fire] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
   * [osm][osm] [libgen][libgen] [adsb][adsb] [websdr][websdr] [heliplots][heliplots] [nullschool][nullschool]
   * [router][router] [racq][racq] [ing][ing] [uphold][uphold] [swyftx][swyftx]
   * [admin][admin] [godaddy][godaddy] [outlook][outlook] [gmail][gmail] [protonmail][protonmail] [expressvpn][expressvpn] [protonvpn][protonvpn] 
@@ -50,6 +50,7 @@
 [marshmallow]: <https://marshmallow-qa.com/culverit>
 [idr663]: <http://www.bom.gov.au/products/IDR663.loop.shtml>
 [warnings]: <http://www.bom.gov.au/qld/warnings/>
+[lightning]: <https://map.blitzortung.org/#6.1/-26.802/152.941>
 [fire]: <https://www.ruralfire.qld.gov.au/Pages/FDR.aspx>
 [fireworks]: <https://www.dnrm.qld.gov.au/qld/emergency/safety/explosive-fireworks/upcoming-fireworks-display-dates>
 [outages]: <https://www.energex.com.au/home/power-outages/emergency-outages-streets/>
