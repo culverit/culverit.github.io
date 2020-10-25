@@ -50,7 +50,7 @@
 [marshmallow]: <https://marshmallow-qa.com/culverit>
 [idr663]: <http://www.bom.gov.au/products/IDR663.loop.shtml>
 [warnings]: <http://www.bom.gov.au/qld/warnings/>
-[lightning]: <https://map.blitzortung.org/#6.1/-26.802/152.941>
+[lightning]: <https://map.blitzortung.org/#8.96/-27.4763/153.0413>
 [fire]: <https://www.ruralfire.qld.gov.au/Pages/FDR.aspx>
 [fireworks]: <https://www.dnrm.qld.gov.au/qld/emergency/safety/explosive-fireworks/upcoming-fireworks-display-dates>
 [outages]: <https://www.energex.com.au/home/power-outages/emergency-outages-streets/>
