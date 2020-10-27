@@ -4,7 +4,7 @@
   * [facebook][facebook] [instagram][instagram] [twitter][twitter] [steam][steam] [github][github] [youtube][youtube] [spotify][spotify] [archive][archive] [marshmallow][marshmallow]
   * P61:435:804:456 timbaumann:outlook:com tim:trbm:net
 * quicklinks
-  * [idr663][idr663] [warnings][warnings] [lightning][lightning] [fire][fire] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
+  * [idr663][idr663] [pressure][pressure] [warnings][warnings] [lightning][lightning] [fire][fire] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
   * [osm][osm] [libgen][libgen] [adsb][adsb] [websdr][websdr] [heliplots][heliplots] [nullschool][nullschool]
   * [router][router] [racq][racq] [ing][ing] [uphold][uphold] [swyftx][swyftx]
   * [admin][admin] [godaddy][godaddy] [outlook][outlook] [gmail][gmail] [protonmail][protonmail] [expressvpn][expressvpn] [protonvpn][protonvpn] 
@@ -49,6 +49,7 @@
 [archive]: <https://archive.org/details/@culverit>
 [marshmallow]: <https://marshmallow-qa.com/culverit>
 [idr663]: <http://www.bom.gov.au/products/IDR663.loop.shtml>
+[pressure]: <http://www.bom.gov.au/australia/charts/synoptic_col.shtml>
 [warnings]: <http://www.bom.gov.au/qld/warnings/>
 [lightning]: <https://map.blitzortung.org/#8.96/-27.4763/153.0413>
 [fire]: <https://www.ruralfire.qld.gov.au/Pages/FDR.aspx>
