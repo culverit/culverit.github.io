@@ -4,7 +4,7 @@
   * [facebook][facebook] [instagram][instagram] [twitter][twitter] [steam][steam] [github][github] [youtube][youtube] [spotify][spotify] [archive][archive] [marshmallow][marshmallow]
   * P61:435:804:456 timbaumann:outlook:com tim:trbm:net
 * quicklinks
-  * [idr663][idr663] [pressure][pressure] [warnings][warnings] [lightning][lightning] [fire][fire] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
+  * [idr663][idr663] [pressure][pressure] [warnings][warnings] [meteye][meteye] [lightning][lightning] [fire][fire] [flood][flood] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
   * [osm][osm] [libgen][libgen] [adsb][adsb] [websdr][websdr] [heliplots][heliplots] [nullschool][nullschool]
   * [router][router] [racq][racq] [ing][ing] [uphold][uphold] [swyftx][swyftx]
   * [admin][admin] [godaddy][godaddy] [outlook][outlook] [gmail][gmail] [protonmail][protonmail] [expressvpn][expressvpn] [protonvpn][protonvpn] 
@@ -87,3 +87,5 @@
 [holotools]: <https://hololive.jetri.co/#/>
 [holodex]: <https://holodex.net/>
 [mchad]: <https://mchad1.firebaseapp.com/ListenerClient/All>
+[meteye]: <http://www.bom.gov.au/australia/meteye/>
+[flood]: <http://www.bom.gov.au/australia/flood/>
