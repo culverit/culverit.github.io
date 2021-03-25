@@ -1,14 +1,11 @@
 # trbm
 ![au] ![fj] ![nz] ![nc] ![jp] ![ae] ![sc] ![sg] ![th] ![my] : ![aq] ![tw] ![iw] ![ia] ![or] ![os]
 * public
-  * [facebook][facebook] [instagram][instagram] [twitter][twitter] [steam][steam] [github][github] [youtube][youtube] [spotify][spotify] [archive][archive] [marshmallow][marshmallow]
+  * [facebook][facebook] [instagram][instagram] [twitter][twitter] [steam][steam] [github][github] [youtube][youtube] [spotify][spotify] [archive][archive]
   * P61:435:804:456 timbaumann:outlook:com tim:trbm:net
 * quicklinks
-  * [idr663][idr663] [pressure][pressure] [warnings][warnings] [meteye][meteye] [lightning][lightning] [fire][fire] [flood][flood] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [atc][atc]
-  * [osm][osm] [libgen][libgen] [adsb][adsb] [websdr][websdr] [heliplots][heliplots] [nullschool][nullschool]
-  * [router][router] [racq][racq] [ing][ing] [uphold][uphold] [swyftx][swyftx]
-  * [admin][admin] [godaddy][godaddy] [outlook][outlook] [gmail][gmail] [protonmail][protonmail] [expressvpn][expressvpn] [protonvpn][protonvpn] 
-  * [mega][mega] [kindle][kindle] [reddit][reddit] [tweetdeck][tweetdeck] [studio][studio]
+  * [idr663][idr663] [pressure][pressure] [warnings][warnings] [meteye][meteye] [lightning][lightning] [fire][fire] [flood][flood] [fireworks][fireworks] [outages][outages] [tides][tides] [wind][wind] [nullschool][nullschool]
+  * [osm][osm] [libgen][libgen] [adsb][adsb] [websdr][websdr] [heliplots][heliplots] [atc][atc] [gcp][gcp]
   * [translate][translate] [deepl][deepl] [holotools][holotools] [holodex][holodex] [mchad][mchad]
 * words
   * sapere aude
@@ -53,7 +50,7 @@
 [warnings]: <http://www.bom.gov.au/qld/warnings/>
 [lightning]: <https://map.blitzortung.org/#8.96/-27.4763/153.0413>
 [fire]: <https://www.ruralfire.qld.gov.au/Pages/FDR.aspx>
-[fireworks]: <https://www.dnrm.qld.gov.au/qld/emergency/safety/explosive-fireworks/upcoming-fireworks-display-dates>
+[fireworks]: <https://www.rshq.qld.gov.au/emergency/safety/explosive-fireworks/upcoming-fireworks-display-dates>
 [outages]: <https://www.energex.com.au/home/power-outages/emergency-outages-streets/>
 [tides]: <http://www.bom.gov.au/australia/tides/>
 [wind]: <http://www.bom.gov.au/marine/wind.shtml>
